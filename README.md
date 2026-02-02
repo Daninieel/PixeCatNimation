@@ -1,4 +1,4 @@
-#🐱 PixeCatNimation (CAT-NET)
+# 🐱 PixeCatNimation (CAT-NET)
 "A pixelated feline experiment"
 
 PixeCatNimation is a whimsical, interactive web background built with HTML5 Canvas. It features a swarm of generated pixel-art cats that float through space, forming a neural-network-like constellation as they connect with one another.
@@ -44,4 +44,5 @@ Connection Distance: Adjust (canvas.width / 7) * (canvas.height / 7) in the conn
 Mouse Interaction: Modify mouse.radius to change the size of the repulsion field.
 
 Meow-trix loaded successfully. 🐾
+
 
